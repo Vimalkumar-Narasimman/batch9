@@ -1,0 +1,193 @@
+[
+    {
+        "name": "arun",
+        "gender": "Male",
+        "marks": [
+            56,
+            67,
+            87,
+            65,
+            43
+        ],
+        "Total": 318,
+        "Result": "Fail"
+    },
+    {
+        "name": "rajesh",
+        "gender": "Male",
+        "marks": [
+            12,
+            43,
+            23,
+            40,
+            43
+        ],
+        "Total": 161,
+        "Result": "Fail"
+    },
+    {
+        "name": "moorthy",
+        "gender": "Male",
+        "marks": [
+            56,
+            78,
+            87,
+            54,
+            65
+        ],
+        "Total": 340,
+        "Result": "Pass",
+        "Avg": 68.0
+    },
+    {
+        "name": "raja",
+        "gender": "Male",
+        "marks": [
+            67,
+            "34",
+            87,
+            56,
+            78
+        ],
+        "Total": 0,
+        "Result": ""
+    },
+    {
+        "name": "usha",
+        "gender": "Female",
+        "marks": [
+            17,
+            12,
+            42,
+            23,
+            43
+        ],
+        "Total": 137,
+        "Result": "Fail"
+    },
+    {
+        "name": "priya",
+        "gender": "Female",
+        "marks": [
+            75,
+            67,
+            87,
+            65,
+            85
+        ],
+        "Total": 379,
+        "Result": "Pass",
+        "Avg": 75.8
+    },
+    {
+        "name": "Sundar",
+        "gender": "Male",
+        "marks": [
+            56,
+            67,
+            87,
+            65,
+            67
+        ],
+        "Total": 342,
+        "Result": "Pass",
+        "Avg": 68.4
+    },
+    {
+        "name": "Kavitha",
+        "gender": "Female",
+        "marks": [
+            65,
+            67,
+            64,
+            65,
+            62
+        ],
+        "Total": 323,
+        "Result": "Pass",
+        "Avg": 64.6
+    },
+    {
+        "name": "Dinesh",
+        "gender": "Male",
+        "marks": [
+            56,
+            67,
+            87,
+            65,
+            56
+        ],
+        "Total": 331,
+        "Result": "Pass",
+        "Avg": 66.2
+    },
+    {
+        "name": "Hema",
+        "gender": "Female",
+        "marks": [
+            78,
+            98,
+            79,
+            75,
+            83
+        ],
+        "Total": 413,
+        "Result": "Pass",
+        "Avg": 82.6
+    },
+    {
+        "name": "Gowri",
+        "gender": "Female",
+        "marks": [
+            88,
+            90,
+            87,
+            89,
+            87
+        ],
+        "Total": 441,
+        "Result": "Pass",
+        "Avg": 88.2
+    },
+    {
+        "name": "Ram",
+        "gender": "Male",
+        "marks": [
+            56,
+            89,
+            54,
+            65,
+            67
+        ],
+        "Total": 331,
+        "Result": "Pass",
+        "Avg": 66.2
+    },
+    {
+        "name": "Murugan",
+        "gender": "Male",
+        "marks": [
+            67,
+            98,
+            87,
+            87,
+            56
+        ],
+        "Total": 395,
+        "Result": "Pass",
+        "Avg": 79.0
+    },
+    {
+        "name": "Jenifer",
+        "gender": "Female",
+        "marks": [
+            67,
+            45,
+            46,
+            43,
+            23
+        ],
+        "Total": 224,
+        "Result": "Fail"
+    }
+]

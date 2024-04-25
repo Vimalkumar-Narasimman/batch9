@@ -1,0 +1,1502 @@
+[
+    {
+        "GPA": "3.46",
+        "SAT_Score": "1223",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.54",
+        "SAT_Score": "974",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.91",
+        "SAT_Score": "909",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.83",
+        "SAT_Score": "1369",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.6",
+        "SAT_Score": "1536",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.52",
+        "SAT_Score": "1476",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.84",
+        "SAT_Score": "1002",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.63",
+        "SAT_Score": "975",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.13",
+        "SAT_Score": "1450",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.54",
+        "SAT_Score": "1118",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.83",
+        "SAT_Score": "1418",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.26",
+        "SAT_Score": "1171",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.54",
+        "SAT_Score": "1035",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.8",
+        "SAT_Score": "1257",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.47",
+        "SAT_Score": "970",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.32",
+        "SAT_Score": "1150",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.83",
+        "SAT_Score": "1278",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.38",
+        "SAT_Score": "1191",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.71",
+        "SAT_Score": "1061",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.51",
+        "SAT_Score": "1348",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.71",
+        "SAT_Score": "1456",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.55",
+        "SAT_Score": "1209",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.01",
+        "SAT_Score": "1526",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.73",
+        "SAT_Score": "1569",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.94",
+        "SAT_Score": "1441",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.0",
+        "SAT_Score": "908",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.64",
+        "SAT_Score": "1583",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.65",
+        "SAT_Score": "1467",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.77",
+        "SAT_Score": "1206",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.41",
+        "SAT_Score": "1579",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.71",
+        "SAT_Score": "1006",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.59",
+        "SAT_Score": "1037",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.3",
+        "SAT_Score": "1170",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.96",
+        "SAT_Score": "1018",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.07",
+        "SAT_Score": "1009",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.33",
+        "SAT_Score": "1466",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.74",
+        "SAT_Score": "1059",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.43",
+        "SAT_Score": "1178",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.79",
+        "SAT_Score": "1188",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.37",
+        "SAT_Score": "1519",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.56",
+        "SAT_Score": "1115",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.57",
+        "SAT_Score": "1251",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.84",
+        "SAT_Score": "1108",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.93",
+        "SAT_Score": "1549",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.62",
+        "SAT_Score": "1170",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.85",
+        "SAT_Score": "1417",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.65",
+        "SAT_Score": "1400",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.92",
+        "SAT_Score": "1157",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.45",
+        "SAT_Score": "952",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.05",
+        "SAT_Score": "994",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.06",
+        "SAT_Score": "1549",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.81",
+        "SAT_Score": "1333",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "1183",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.9",
+        "SAT_Score": "945",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.47",
+        "SAT_Score": "903",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.41",
+        "SAT_Score": "1241",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.76",
+        "SAT_Score": "1033",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.59",
+        "SAT_Score": "1552",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.75",
+        "SAT_Score": "1168",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.07",
+        "SAT_Score": "1065",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.98",
+        "SAT_Score": "1352",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.46",
+        "SAT_Score": "1464",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.34",
+        "SAT_Score": "1337",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.53",
+        "SAT_Score": "1474",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.76",
+        "SAT_Score": "909",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.66",
+        "SAT_Score": "1014",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.84",
+        "SAT_Score": "977",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.55",
+        "SAT_Score": "1052",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.97",
+        "SAT_Score": "1458",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "936",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.82",
+        "SAT_Score": "1278",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.91",
+        "SAT_Score": "1496",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.81",
+        "SAT_Score": "1465",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.97",
+        "SAT_Score": "1051",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.48",
+        "SAT_Score": "1340",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.09",
+        "SAT_Score": "1030",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.87",
+        "SAT_Score": "942",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.19",
+        "SAT_Score": "1215",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "1273",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.87",
+        "SAT_Score": "940",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.34",
+        "SAT_Score": "1266",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.89",
+        "SAT_Score": "1115",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.38",
+        "SAT_Score": "1598",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.85",
+        "SAT_Score": "1155",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.1",
+        "SAT_Score": "1582",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.83",
+        "SAT_Score": "1005",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "4.0",
+        "SAT_Score": "1262",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.26",
+        "SAT_Score": "1473",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.64",
+        "SAT_Score": "1316",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.57",
+        "SAT_Score": "1535",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.66",
+        "SAT_Score": "1058",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.44",
+        "SAT_Score": "1142",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.69",
+        "SAT_Score": "1066",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.13",
+        "SAT_Score": "1081",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.6",
+        "SAT_Score": "1322",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.07",
+        "SAT_Score": "925",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.99",
+        "SAT_Score": "1083",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.29",
+        "SAT_Score": "1240",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.96",
+        "SAT_Score": "1321",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.79",
+        "SAT_Score": "1585",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.52",
+        "SAT_Score": "1154",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.58",
+        "SAT_Score": "1173",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.52",
+        "SAT_Score": "1063",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.31",
+        "SAT_Score": "1010",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "1291",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.46",
+        "SAT_Score": "939",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.67",
+        "SAT_Score": "1381",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.15",
+        "SAT_Score": "1127",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.18",
+        "SAT_Score": "1104",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.93",
+        "SAT_Score": "1371",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.81",
+        "SAT_Score": "1258",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "1212",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.25",
+        "SAT_Score": "1133",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.77",
+        "SAT_Score": "1128",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.87",
+        "SAT_Score": "924",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.81",
+        "SAT_Score": "1575",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.95",
+        "SAT_Score": "1097",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.46",
+        "SAT_Score": "1308",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.41",
+        "SAT_Score": "1236",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.73",
+        "SAT_Score": "1185",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.64",
+        "SAT_Score": "971",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.31",
+        "SAT_Score": "1185",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.67",
+        "SAT_Score": "1259",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.3",
+        "SAT_Score": "1556",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.5",
+        "SAT_Score": "1421",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.99",
+        "SAT_Score": "1309",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.53",
+        "SAT_Score": "1595",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.89",
+        "SAT_Score": "1449",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.82",
+        "SAT_Score": "1239",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.75",
+        "SAT_Score": "928",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.96",
+        "SAT_Score": "1018",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.59",
+        "SAT_Score": "1167",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.82",
+        "SAT_Score": "1082",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.92",
+        "SAT_Score": "1494",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.63",
+        "SAT_Score": "1171",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.23",
+        "SAT_Score": "939",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.6",
+        "SAT_Score": "1011",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.64",
+        "SAT_Score": "1510",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.65",
+        "SAT_Score": "1344",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.69",
+        "SAT_Score": "1253",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.21",
+        "SAT_Score": "1221",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.32",
+        "SAT_Score": "1346",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "1520",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.81",
+        "SAT_Score": "1423",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.13",
+        "SAT_Score": "1018",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.82",
+        "SAT_Score": "1294",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.31",
+        "SAT_Score": "1490",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.59",
+        "SAT_Score": "1094",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.8",
+        "SAT_Score": "1160",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.97",
+        "SAT_Score": "945",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.99",
+        "SAT_Score": "1346",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.47",
+        "SAT_Score": "901",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.16",
+        "SAT_Score": "1432",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.28",
+        "SAT_Score": "1451",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.68",
+        "SAT_Score": "1586",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.84",
+        "SAT_Score": "1101",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.01",
+        "SAT_Score": "1272",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.38",
+        "SAT_Score": "1341",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.85",
+        "SAT_Score": "971",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.83",
+        "SAT_Score": "1580",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.61",
+        "SAT_Score": "1238",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.45",
+        "SAT_Score": "1538",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.84",
+        "SAT_Score": "1221",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.86",
+        "SAT_Score": "1579",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.79",
+        "SAT_Score": "1027",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.61",
+        "SAT_Score": "1207",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.86",
+        "SAT_Score": "1419",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.5",
+        "SAT_Score": "1216",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.82",
+        "SAT_Score": "1582",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.7",
+        "SAT_Score": "1318",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.9",
+        "SAT_Score": "1234",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.36",
+        "SAT_Score": "1312",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.21",
+        "SAT_Score": "1202",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.68",
+        "SAT_Score": "1467",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.71",
+        "SAT_Score": "1030",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.79",
+        "SAT_Score": "1096",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.65",
+        "SAT_Score": "1330",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.15",
+        "SAT_Score": "1580",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.14",
+        "SAT_Score": "1288",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.2",
+        "SAT_Score": "1593",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.59",
+        "SAT_Score": "1078",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.51",
+        "SAT_Score": "1530",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.98",
+        "SAT_Score": "1482",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.65",
+        "SAT_Score": "1208",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.1",
+        "SAT_Score": "1315",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.01",
+        "SAT_Score": "1461",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.79",
+        "SAT_Score": "900",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.87",
+        "SAT_Score": "1211",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.79",
+        "SAT_Score": "1193",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.17",
+        "SAT_Score": "1115",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.13",
+        "SAT_Score": "1340",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.92",
+        "SAT_Score": "1493",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.87",
+        "SAT_Score": "1521",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.88",
+        "SAT_Score": "1570",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.16",
+        "SAT_Score": "1229",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.79",
+        "SAT_Score": "1376",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.33",
+        "SAT_Score": "1352",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.58",
+        "SAT_Score": "1352",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "4.0",
+        "SAT_Score": "1591",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.75",
+        "SAT_Score": "1118",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.95",
+        "SAT_Score": "1423",
+        "Extracurricular_Activities": "2",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.89",
+        "SAT_Score": "1384",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.77",
+        "SAT_Score": "1073",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.75",
+        "SAT_Score": "1574",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.23",
+        "SAT_Score": "986",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.82",
+        "SAT_Score": "1190",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.1",
+        "SAT_Score": "1427",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.59",
+        "SAT_Score": "1579",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.07",
+        "SAT_Score": "1548",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.98",
+        "SAT_Score": "1534",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.9",
+        "SAT_Score": "1243",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.68",
+        "SAT_Score": "995",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.18",
+        "SAT_Score": "1140",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.13",
+        "SAT_Score": "1588",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.94",
+        "SAT_Score": "1217",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.99",
+        "SAT_Score": "1130",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.33",
+        "SAT_Score": "1103",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.58",
+        "SAT_Score": "1050",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.73",
+        "SAT_Score": "925",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.95",
+        "SAT_Score": "947",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.95",
+        "SAT_Score": "1150",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.37",
+        "SAT_Score": "1386",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.31",
+        "SAT_Score": "1525",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.62",
+        "SAT_Score": "974",
+        "Extracurricular_Activities": "0",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.59",
+        "SAT_Score": "1366",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.38",
+        "SAT_Score": "1324",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.25",
+        "SAT_Score": "1544",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.78",
+        "SAT_Score": "1489",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.74",
+        "SAT_Score": "1099",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.94",
+        "SAT_Score": "1293",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.62",
+        "SAT_Score": "1406",
+        "Extracurricular_Activities": "10",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.78",
+        "SAT_Score": "1309",
+        "Extracurricular_Activities": "9",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.39",
+        "SAT_Score": "1149",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.51",
+        "SAT_Score": "1051",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.85",
+        "SAT_Score": "1571",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.68",
+        "SAT_Score": "905",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.84",
+        "SAT_Score": "1009",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "2.87",
+        "SAT_Score": "1335",
+        "Extracurricular_Activities": "6",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.39",
+        "SAT_Score": "1124",
+        "Extracurricular_Activities": "8",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.43",
+        "SAT_Score": "1080",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.13",
+        "SAT_Score": "1430",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Accepted"
+    },
+    {
+        "GPA": "3.38",
+        "SAT_Score": "1375",
+        "Extracurricular_Activities": "7",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.28",
+        "SAT_Score": "951",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.9",
+        "SAT_Score": "1470",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.81",
+        "SAT_Score": "1155",
+        "Extracurricular_Activities": "4",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "3.57",
+        "SAT_Score": "1024",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Rejected"
+    },
+    {
+        "GPA": "2.86",
+        "SAT_Score": "1367",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.09",
+        "SAT_Score": "1036",
+        "Extracurricular_Activities": "3",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "3.51",
+        "SAT_Score": "1375",
+        "Extracurricular_Activities": "5",
+        "Admission_Status": "Waitlisted"
+    },
+    {
+        "GPA": "2.95",
+        "SAT_Score": "1583",
+        "Extracurricular_Activities": "1",
+        "Admission_Status": "Waitlisted"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "name": "arun",
+        "gender": "Male",
+        "marks": [
+            56,
+            67,
+            87,
+            65,
+            43
+        ],
+        "total": 318,
+        "Percentage": 63.6
+    },
+    {
+        "name": "rajesh",
+        "gender": "Male",
+        "marks": [
+            12,
+            43,
+            23,
+            40,
+            43
+        ],
+        "total": 161,
+        "Percentage": 32.2
+    },
+    {
+        "name": "moorthy",
+        "gender": "Male",
+        "marks": [
+            56,
+            78,
+            87,
+            54,
+            65
+        ],
+        "total": 340,
+        "Percentage": 68.0
+    },
+    {
+        "name": "raja",
+        "gender": "Male",
+        "marks": [
+            67,
+            34,
+            87,
+            56,
+            78
+        ],
+        "total": 322,
+        "Percentage": 64.4
+    },
+    {
+        "name": "usha",
+        "gender": "Female",
+        "marks": [
+            17,
+            12,
+            42,
+            23,
+            43
+        ],
+        "total": 137,
+        "Percentage": 27.4
+    },
+    {
+        "name": "priya",
+        "gender": "Female",
+        "marks": [
+            75,
+            67,
+            87,
+            65,
+            85
+        ],
+        "total": 379,
+        "Percentage": 75.8
+    },
+    {
+        "name": "Sundar",
+        "gender": "Male",
+        "marks": [
+            56,
+            67,
+            87,
+            65,
+            67
+        ],
+        "total": 342,
+        "Percentage": 68.4
+    },
+    {
+        "name": "Kavitha",
+        "gender": "Female",
+        "marks": [
+            65,
+            67,
+            64,
+            65,
+            62
+        ],
+        "total": 323,
+        "Percentage": 64.6
+    },
+    {
+        "name": "Dinesh",
+        "gender": "Male",
+        "marks": [
+            56,
+            67,
+            87,
+            65,
+            56
+        ],
+        "total": 331,
+        "Percentage": 66.2
+    },
+    {
+        "name": "Hema",
+        "gender": "Female",
+        "marks": [
+            78,
+            98,
+            79,
+            75,
+            83
+        ],
+        "total": 413,
+        "Percentage": 82.6
+    },
+    {
+        "name": "Gowri",
+        "gender": "Female",
+        "marks": [
+            88,
+            90,
+            87,
+            89,
+            87
+        ],
+        "total": 441,
+        "Percentage": 88.2
+    },
+    {
+        "name": "Ram",
+        "gender": "Male",
+        "marks": [
+            56,
+            89,
+            54,
+            65,
+            67
+        ],
+        "total": 331,
+        "Percentage": 66.2
+    },
+    {
+        "name": "Murugan",
+        "gender": "Male",
+        "marks": [
+            67,
+            98,
+            87,
+            87,
+            56
+        ],
+        "total": 395,
+        "Percentage": 79.0
+    },
+    {
+        "name": "Jenifer",
+        "gender": "Female",
+        "marks": [
+            67,
+            45,
+            46,
+            43,
+            23
+        ],
+        "total": 224,
+        "Percentage": 44.8
+    }
+]
